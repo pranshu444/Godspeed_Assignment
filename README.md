@@ -36,23 +36,18 @@ A modern, interactive website for Godspeed Systems built with React, Node.js, an
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd godspeed-systems-website
+git clone https://github.com/pranshu444/Godspeed_Assignment
+cd Godspeed
 ```
 
 2. Install dependencies:
 ```bash
-npm install
+npm i
 ```
 
 3. Start the development server:
 ```bash
 npm run dev
-```
-
-4. Start the backend server:
-```bash
-npm run server
 ```
 
 The website will be available at `http://localhost:5173`
@@ -100,4 +95,4 @@ src/
 
 ## License
 
-Pranshu Jain
+Pranshu Jain 
